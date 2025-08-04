@@ -1,2 +1,2 @@
-# rinjani-token-logo
-rinjani token logo
+# rnjtoken-logo
+rnj token logo
